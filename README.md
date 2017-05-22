@@ -1,8 +1,18 @@
 Bookmarks: A github issue storage to store all tweet or facebook storyboard for query or sharing.
 ==============
 
+![](images/bookmark.png)
 
 Just check [issues](https://github.com/kkdai/bookmarks/issues).
+
+
+How to do it?
+---------------
+
+- Add IFTTT Applet for Twitter and Facebook storyboard.
+- Add a Webmaker
+- Refer to my [code](https://github.com/kkdai/bookmark-makerserver) to build your own webmaker server 
+
 
 License
 ---------------
